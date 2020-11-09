@@ -1,1 +1,2 @@
-adding from github.com, infinite looop of creating repo
+adding from github.com, infinite loop of creating repo
+more stuff in file1
